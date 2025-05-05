@@ -27,7 +27,6 @@ This project is a wearable system for **real-time chest motion monitoring** usin
 ```
 ChestMotionMonitoring-ML/
 ├── README.md
-├── LICENSE
 ├── .gitignore
 ├── data/                  # Raw & processed data
 ├── notebooks/             # Jupyter notebooks
